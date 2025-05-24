@@ -1,0 +1,4 @@
+- set theory er differnce e jodi A U B hoy tahole must A er ja ja milbe tai bad dite hobe 
+- A⊆B   means B is a subset of A .
+- Empty set is a subset of every set .
+- Number of ways to arrange n distinct objects n! = n*(n-1) *1
