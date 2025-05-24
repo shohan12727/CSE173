@@ -2,3 +2,20 @@
 - A⊆B   means B is a subset of A .
 - Empty set is a subset of every set .
 - Number of ways to arrange n distinct objects n! = n*(n-1) *1
+- For Calculating GCD i have take the common value of those number (not repeated value is allowed)
+- implecation : Statement:
+"If it is raining, then the ground is wet."
+
+If it is raining and the ground is wet → statement is true.
+
+If it is raining but the ground is not wet → statement is false (contradiction).
+
+If it is not raining, the statement says nothing definite about the ground, so the implication is true regardless of whether the ground is wet or dry.
+
+
+================
+An implecation p-->q is false only if p is ture and q is false
+================
+
+
+
