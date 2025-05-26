@@ -16,6 +16,3 @@ If it is not raining, the statement says nothing definite about the ground, so t
 ================
 An implecation p-->q is false only if p is ture and q is false
 ================
-
-
-
